@@ -1,29 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000080,100:1d4ed8&fontColor=e5e7eb&animation=fadeIn&text=SeungHwan's)
+## Main Stack
 
-### 🛠️ Tech Stacks
-Language </br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<br/>
-Frontend </br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<br/>
-Backend </br>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-<br/>
-Database </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<br/>
-DevOps </br>
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
-</br>
-Tools </br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<table>
+    <tr>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="60px" alt=""/><br>Java
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="60px" alt=""/><br>Spring Boot
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="60px" alt=""/><br>MySQL
+      </td>
+    </tr>
+</table>
+
+## Activity
+
+- 삼성 청년 SW·AI 아카데미(SSAFY) 14기 Java Track (2025.07 – 2026.06)
+- 인프런 워밍업 클럽 4기 백엔드 - 클린 코드, 테스트 코드 (2025.05 – 2025.06)
+- 수학 학원 고등부 전임 강사 (2021.03 - 2024.02)
+
+## Award
+
+- SSAFY 2학기 최종(자율) 프로젝트 🏆 우수상 (2026.05)
+- 인프런 워밍업 클럽 4기 🏆 우수러너 (2025.06)
+
+## Certificate
+
+- 정보처리기사 (2024.12)
+- SQL개발자 (SQLD) (2024.06)
+
+## Open Source Contributions
+
+- [spring-boot #52904](https://github.com/spring-projects/spring-boot/pull/52904): `application.properties`나 `application.yaml`에서 `spring.messages.basename`을 list syntax로 설정 시 `MessageSource` 빈이 생성되지 않던 문제 수정
+- [lettuce #4033](https://github.com/redis/lettuce/pull/4033): `DefaultClientResources.mutate()`로 생성한 리소스 종료 시 애플리케이션에서 관리해야 할 `CommandLatencyCollector`까지 종료되던 문제 수정
+- [a2a-java #1355](https://github.com/a2aproject/a2a-java/pull/1355): `JSONRPCTransport.close()` 호출 후에도 SSE 스트림이 닫히지 않던 문제 수정
